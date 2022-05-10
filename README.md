@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bafnasumi
+- 👀 I’m develop in Flutter, Firebase, Django or their combinations.
+- 📫 Reach me at bafnasumi02@gmail.com.
